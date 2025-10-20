@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm Kevin Buxton
 
-<!--
-**buxton-sys/buxton-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineering student at Zetech University, passionate about using technology to build ideas that make life more structured and creative.
 
-Here are some ideas to get you started:
+💡 I enjoy experimenting with:
+- Web & App Development (HTML, CSS, Python)
+- Automation projects (like WhatsApp bots)
+- Exploring how small ideas can evolve into impactful digital tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Current focus:
+Sharpening my coding logic, understanding real-world systems, and learning how to turn raw ideas into working tech.
+
+🎯 Goal:
+To create meaningful tech solutions that mix creativity, structure, and purpose.
+
+---
+
+💬 *“I build small things that think big — learning tech, one idea at a time.”*
